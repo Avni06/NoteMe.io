@@ -1,0 +1,50 @@
+body{
+  font-family: 'Amatic SC', cursive;
+  color: #ffffff;
+  font size:20px;
+  overflow-x: hidden;
+  background-image: url("lauris-rozentals-RyKLUffUhVM-unsplash.jpg");
+  width: auto;
+  height: auto;
+  padding-bottom: 100%;
+}
+
+/*Navbar*/
+.navbar{
+  background-color: #3D1500 !important;
+}
+
+#addCard{
+  color: #9F0F18;
+  background-image: url(andrew-buchanan-NzRhKbvS08s-unsplash.jpg);
+  width:inherit;
+  height: auto;
+}
+
+hr{
+  height: 3px;
+  width: 50px;
+  background-color: #ffffff;
+  border-bottom:red;
+}
+#addBtn{
+  background-color: #A83B00;
+  color: #ffffff;
+
+#delBtn{
+  background-color: #CB873A;
+  color: #ffffff;
+}
+
+/*bg img
+.fixed-wrap {
+  background-image: url("erol-ahmed-wKTF65TcReY-unsplash.jpg");
+  width: auto;
+  height: auto;
+  padding-bottom: 100%;
+}*/
+
+}
+.form-control{
+font-family: 'Raleway', sans-serif;
+}
